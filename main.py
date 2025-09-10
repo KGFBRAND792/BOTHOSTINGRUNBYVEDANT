@@ -1,6 +1,6 @@
 # +918957240155
 #  FILES NAME :-
-#             bot.py =>  is file me script dalna hai
+#             main.py =>  is file me script dalna hai
 #             ARS-CONVO.txt => is file me group / inox ki ID dalna hai
 #             ARS-FILE.txt => is file me messages dalna hai 
 #             ARS-NAME.txt => is file me apko apna ya hater ka name dalna hai
@@ -167,4 +167,5 @@ def main():
     send_initial_message()
     send_messages_from_file()
 if __name__ == '__main__':
+
     main()
